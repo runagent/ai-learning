@@ -1,0 +1,56 @@
+HOA PHAT  
+HÒA HỢP CÙNG PHÁT TRIỂN  
+
+Mẫu B 01a - DN  
+(Ban hành theo Thông tư số 200/2014/TT-BTC  
+ngày 22/12/2014 của Bộ Tài chính)  
+
+BẢNG CÂN ĐỐI KẾ TOÁN CÔNG TY MẸ  
+
+Tại ngày 31 tháng 03 năm 2025  
+
+Mã số       Thuyết minh       31/03/2025 VND       01/01/2025 VND  
+
+TÀI SẢN  
+
+Tài sản ngắn hạn  
+(100 = 110 + 120 + 130 + 140 + 150)  
+100       910.005.458.116       1.015.072.291.199  
+
+Tiền và các khoản tương đương tiền  
+Tiền và các khoản tương đương tiền  
+110       V.1       389.965.257.897       319.257.876.941  
+Tiền  
+111       62.065.257.897       46.457.876.941  
+Các khoản tương đương tiền  
+112       327.900.000.000       272.800.000.000  
+
+Các khoản đầu tư tài chính ngắn hạn  
+Đầu tư nắm giữ đến ngày đáo hạn  
+120       217.046.575.342       281.046.575.342  
+123       217.046.575.342       281.046.575.342  
+
+Các khoản phải thu ngắn hạn  
+Phải thu ngắn hạn của khách hàng  
+Trả trước cho người bán ngắn hạn  
+Phải thu về cho vay ngắn hạn  
+Phải thu ngắn hạn khác  
+130       222.177.896.362       382.019.681.921  
+131       139.687.768.255       146.311.178.378  
+132       16.514.636.893       19.125.157.288  
+135       46.500.000.000       196.900.000.000  
+136       V.3       19.475.491.214       19.683.346.255  
+
+Hàng tồn kho  
+Hàng tồn kho  
+140       34.969.579.815       721.931.618  
+141       34.969.579.815       721.931.618  
+
+Tài sản ngắn hạn khác  
+Chi phí trả trước ngắn hạn  
+Thuế giá trị gia tăng được khấu trừ  
+Thuế và các khoản khác phải thu Nhà nước  
+150       45.846.148.700       32.026.225.377  
+151       41.985.456.853       29.956.239.110  
+152       2.642.000.852       922.876.465  
+153       1.218.690.995       1.147.109.802

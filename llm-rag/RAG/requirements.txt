@@ -1,0 +1,22 @@
+# Core dependencies for RAG Chatbot
+langchain==0.3.10
+langchain-community==0.3.10
+langchain-core==0.3.28
+langchain-openai==0.2.14
+langchain-qdrant==0.2.0
+langchain-text-splitters==0.3.2
+
+# Vector database
+qdrant-client==1.12.1
+
+# PDF processing
+pypdf==5.1.0
+
+# OpenAI
+openai==1.58.1
+
+# Async support
+asyncio
+
+# Utilities
+python-dotenv==1.0.1
